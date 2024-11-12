@@ -9,6 +9,12 @@ export class loginUserDto {
  @IsString()
  @IsNotEmpty()
  password: string;
+
+
+
+
+
+
 }
 
 
